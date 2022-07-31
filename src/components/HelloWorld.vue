@@ -108,11 +108,6 @@
     </v-layout>
     </v-container>
   </div>
-  <div class="box3">
-    <v-card class="pa-md-2 mx-lg-auto" outlined max-height="100%">
-      
-    </v-card>
-  </div>
   </v-container>
 </template>
 
